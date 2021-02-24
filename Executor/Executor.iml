@@ -7,10 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="ClientRuntime" level="project" />
-    <orderEntry type="module" module-name="Communications" />
+    <orderEntry type="library" name="KotlinJavaRuntime (5)" level="project" />
     <orderEntry type="module" module-name="TaskInstance" />
-    <orderEntry type="module" module-name="Balancer" />
-    <orderEntry type="library" name="mysql:mysql-connector-java:8.0.20" level="project" />
   </component>
 </module>
